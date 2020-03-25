@@ -1,17 +1,14 @@
-package com.example.androidbasic2;
+package com.example.lap4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Example2Activity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_example2);
-
-
-
+        setContentView(R.layout.activity_main);
     }
 }
