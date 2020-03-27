@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         b.create();
-
         btnClick.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
                 b.show();
             }
         });
+
     }
+
 
 }
