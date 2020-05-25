@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BaoCaoAR</string>
+
+    <string name="caiDatGame">Game Setting</string>
+    <string name="amThanh">Sound</string>
+    <string name="doSang">Brightness</string>
+    <string name="cheDo">Difficulty Level</string>
+    <string name="de">Easy</string>
+    <string name="kho">Hard</string>
+    <string name="trungBinh">Medium</string>
+    <string name="luu">Save</string>
+
+    <string name="choi">play</string>
+    <string name="thanhTu">Achievements</string>
+    <string name="caiDat">setting</string>
+    <string name="danh">Attack </string>
+
+</resources>

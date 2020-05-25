@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaoCaoAR</string>
+    <string name="caiDatGame">Cài Đặt Game</string>
+    <string name="amThanh">Âm Thanh</string>
+    <string name="doSang">Độ Sáng</string>
+    <string name="cheDo">Độ Khó</string>
+    <string name="de">Dễ</string>
+    <string name="kho">Khó</string>
+    <string name="trungBinh">TrungBinh</string>
+    <string name="luu">Lưu</string>
+    <string name="choi">Chơi</string>
+    <string name="thanhTu">Thành Tựu</string>
+    <string name="caiDat">Cài Đặt</string>
+    <string name="danh">Đánh</string>
+</resources>

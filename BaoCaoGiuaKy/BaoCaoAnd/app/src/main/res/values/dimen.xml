@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="chieuDaiNV">150dp</dimen>
+    <dimen name="chieuRongNV">150dp</dimen>
+    <dimen name="chieuDaiQuai">300dp</dimen>
+    <dimen name="chieuRongQuai">300dp</dimen>
+
+    <dimen name="dameThuong">30sp</dimen>
+    <dimen name="chiMang">60sp</dimen>
+</resources>
